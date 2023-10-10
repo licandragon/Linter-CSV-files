@@ -1,0 +1,6 @@
+nick,matricula,facu,carrera,promedio,anio,correo
+pako,306403,Ing,Computacion,87.25,42,pako@uabc.edu.mx
+
+pepe,306405,computacioones,,48,al306405@uabe.edu.mx
+juan,,alimentos
+alejandro,,Ingeniero,Compu,89,24,al306403@uabe.edu.mx
